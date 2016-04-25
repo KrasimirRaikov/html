@@ -1,0 +1,17 @@
+fieldset{
+    width: 300px;
+    margin: auto;
+}
+
+form {
+    margin:auto;
+    align-self: center;
+    padding-top: 10px;
+    width: 200px;
+    /*background-color: darkgray;*/
+}
+
+input{
+    width: 100%;
+    border-style: outset;
+}
